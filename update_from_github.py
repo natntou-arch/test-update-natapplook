@@ -3,7 +3,7 @@ import shutil
 import zipfile
 import requests
 import tempfile
-
+caca
 # === CONFIGURATION ===
 GITHUB_USER = "natntou-arch"
 GITHUB_REPO = "test-update-natapplook"
@@ -95,3 +95,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
